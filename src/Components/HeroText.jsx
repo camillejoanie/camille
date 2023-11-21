@@ -45,7 +45,7 @@ const HeroText = () => {
                 <span
                   key={index}
                   className="text-primary-400 bounce"
-                  style={{ fontSize: "1.2em" }}
+                  style={{ fontSize: "1.2em", color: "#d29dab" }}
                 >
                   {char}
                 </span>
