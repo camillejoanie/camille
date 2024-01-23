@@ -28,7 +28,6 @@ import {
   oKdramas,
   cssIcon,
   eslintIcon,
-  figmaIcon,
   gitIcon,
   githubIcon,
   htmlIcon,
@@ -40,6 +39,7 @@ import {
   psqlIcon,
   pyIcon,
   reactIcon,
+  reduxIcon,
   viteIcon,
 } from "../assets";
 
@@ -58,6 +58,7 @@ const media = {
   eslintIcon,
   pyIcon,
   viteIcon,
+  reduxIcon,
   nodeIcon,
   avatar,
 };
@@ -76,13 +77,15 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there, I'm so happy you are here!",
+    "Hello there! I'm thrilled to have you here.",
 
-    "My name is Camille, I'm 24 and I just graduated from App Academy Coding Bootcamp to become a Full Stack Software Engineer. As I grew up using the computer and developing technologies, I've always had an interest in web development.",
+    "I'm Camille, a 24-year-old recent graduate from App Academy Coding Bootcamp, specializing in Full Stack Software Engineering. Growing up surrounded by computers and emerging technologies, my passion for web development naturally took root.",
 
-    "Outside of my regular activities, I enjoy cooking various recipies with my parents as my wonderful taste testers whenever I have some free time. I also love spending quality time with friends and discovering new local areas to visit.",
+    "Outside of my coding adventures, I indulge in the joy of cooking various recipes, with my parents serving as my wonderful taste testers during my free time. I also cherish spending quality moments with friends and exploring new local areas.",
 
-    "I'm continuously thrilled to partner with individuals and teams who wholeheartedly embrace my fervor for crafting extraordinary experiences. Your visit to my portfolio is deeply appreciated !",
+    "I am constantly excited to collaborate with individuals and teams who share my enthusiasm for creating exceptional experiences.",
+
+    "Your visit to my portfolio is truly appreciated!",
   ],
 };
 
@@ -204,6 +207,20 @@ const skills = [
     icon: nodeIcon,
     description:
       "When it comes to building web applications, I prefer using Node as my runtime environment. I have expertise in leveraging Node.js to develop powerful and scalable web applications.",
+  },
+  {
+    id: "express",
+    title: "Express",
+    icon: nodeIcon,
+    description:
+      "Proficient in creating robust APIs and server-side applications, I leverage Express to build scalable and efficient backends that seamlessly handle HTTP requests and enhance overall application performance.",
+  },
+  {
+    id: "redux",
+    title: "Redux",
+    icon: reduxIcon,
+    description:
+      "With Redux, I efficiently manage the state of my React applications, ensuring a single source of truth for data and enabling seamless communication between components.",
   },
 ];
 
