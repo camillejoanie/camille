@@ -168,14 +168,7 @@ const skills = [
     title: "Amazon Web Services",
     icon: awsIcon,
     description:
-      "I am certified in AWS and proficient in working with EC2 and RDS instances, leveraging the power of cloud computing for scalable and reliable infrastructure.",
-  },
-  {
-    id: "figma",
-    title: "Figma",
-    icon: figmaIcon,
-    description:
-      "In my Figma skills, I unleash creativity, designing captivating user interfaces and collaborating seamlessly with designers and developers.",
+      "I am certified in AWS, leveraging the power of cloud computing for scalable and reliable infrastructure.",
   },
   {
     id: "git",
@@ -203,14 +196,14 @@ const skills = [
     title: "Python",
     icon: pyIcon,
     description:
-      "With 3 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.",
+      "With my Python experience, I am adept at coding functions and creating graphic interfaces.",
   },
   {
     id: "node",
     title: "Node",
     icon: nodeIcon,
     description:
-      "When it comes to building web applications, I prefer using Node as my runtime environment over Yarn. I have expertise in leveraging Node.js to develop powerful and scalable web applications.",
+      "When it comes to building web applications, I prefer using Node as my runtime environment. I have expertise in leveraging Node.js to develop powerful and scalable web applications.",
   },
 ];
 
