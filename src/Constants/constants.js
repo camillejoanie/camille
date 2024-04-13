@@ -171,7 +171,7 @@ const skills = [
     title: "Amazon Web Services",
     icon: awsIcon,
     description:
-      "I am certified in AWS, leveraging the power of cloud computing for scalable and reliable infrastructure.",
+      "I'm AWS certified, skilled in cloud infrastructure and security. I manage access, design secure networks, implement encryption, adhere to best practices, comply with standards, and monitor security.",
   },
   {
     id: "git",
