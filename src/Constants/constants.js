@@ -199,7 +199,7 @@ const skills = [
     title: "Python",
     icon: pyIcon,
     description:
-      "With my Python experience, I am adept at coding functions and creating graphic interfaces.",
+      "With my Python expertise, I excel in coding functions, crafting graphical interfaces, and developing robust applications using frameworks such as Flask for creating lightweight and efficient web applications. I'm adept at leveraging the features of these frameworks to rapidly develop scalable and maintainable solutions. Additionally, I have experience integrating backend services, managing databases, and implementing authentication and authorization mechanisms within these frameworks.",
   },
   {
     id: "node",
