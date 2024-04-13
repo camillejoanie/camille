@@ -77,7 +77,7 @@ const icons = {
 
 const introduction = {
   text: [
-    "Hello there! I'm thrilled to have you here.",
+    "Hello! I'm thrilled to have you here.",
 
     "I'm Camille, a 24-year-old recent graduate from App Academy Coding Bootcamp, specializing in Full Stack Software Engineering. Growing up surrounded by computers and emerging technologies, my passion for web development naturally took root.",
 
