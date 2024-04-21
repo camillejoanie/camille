@@ -206,7 +206,7 @@ const skills = [
     title: "Node",
     icon: nodeIcon,
     description:
-      "When it comes to buildin web applications, I prefer using Node as my runtime environment. I have expertise in leveraging Node.js to develop powerful and scalable web applications.",
+      "When it comes to building web applications, I prefer using Node as my runtime environment. I have expertise in leveraging Node.js to develop powerful and scalable web applications.",
   },
   {
     id: "express",
