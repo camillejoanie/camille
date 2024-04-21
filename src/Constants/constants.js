@@ -126,7 +126,8 @@ const projects = [
   },
   {
     name: "AirBnBOBA",
-    description: "Try booking your favorite boba spot for your next big event!",
+    description:
+      "Try booking your favorite boba spot for your next big event! Feel free to include your own favorite shop! :)",
     image: boba,
     source_code_link: "https://github.com/camillejoanie/AirBnBoba",
     demo_link: "https://camille-airbnb-api.onrender.com/",
