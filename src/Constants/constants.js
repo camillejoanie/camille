@@ -81,7 +81,7 @@ const introduction = {
 
     "I'm Camille, a 24-year-old recent graduate from App Academy Coding Bootcamp, specializing in Full Stack Software Engineering. Growing up surrounded by computers and emerging technologies, my passion for web development naturally took root.",
 
-    "Outside of my coding adventures, I indulge in the joy of cooking various recipes, with my parents serving as my wonderful taste testers during my free time. I also cherish spending quality moments with friends and exploring new local areas.",
+    "Outside of my coding adventures, I indulge in the joy of cooking various recipes, with my parents serving as my wonderful taste testers during my free time. I also cherish spending quality moments with friends, exploring new local areas, and traveling to exciting destinations.",
 
     "I am constantly excited to collaborate with individuals and teams who share my enthusiasm for creating exceptional experiences.",
 
