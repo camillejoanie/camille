@@ -152,7 +152,7 @@ const skills = [
     title: "CSS",
     icon: cssIcon,
     description:
-      "I possess expertise in utilizing CSS to design web pages and craft visually captivating layouts that enhance the overall user experience.",
+      "I posses expertise in utilizing CSS to design web pages and craft visually captivating layouts that enhance the overall user experience.",
   },
   {
     id: "javascript",
