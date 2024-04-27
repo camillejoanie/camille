@@ -119,7 +119,8 @@ const projects = [
   },
   {
     name: "Music Lovers",
-    description: "A Spotify Clone with a stylistic twist",
+    description:
+      "A Spotify Clone with a stylistic twist, allowing any artist to upload their own music!",
     image: musicLovers,
     source_code_link: "https://github.com/syped/music-lovers",
     demo_link: "https://music-lovers-docker.onrender.com/",
