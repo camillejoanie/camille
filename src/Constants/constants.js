@@ -112,7 +112,7 @@ const projects = [
   {
     name: "oKdrama",
     description:
-      "A review site for your favorite Korean Drama Shows where you can learn more about the actors and other dramas that may spark your interest!",
+      "A review site for your favorite Korean Drama Shows where you can learn more about the actors/actresses and other dramas that may spark your interest!",
     image: oKdramas,
     source_code_link: "https://github.com/camillejoanie/oKdrama",
     demo_link: "https://okdramas.onrender.com/",
