@@ -110,7 +110,7 @@ export const navLinks = [
 
 const projects = [
   {
-    name: "oKdramas",
+    name: "oKdrama",
     description:
       "A review site for your favorite Korean Drama Shows where you can learn more about the actors and other dramas that may spark your interest!",
     image: oKdramas,
