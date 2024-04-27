@@ -85,7 +85,7 @@ const introduction = {
 
     "I am constantly excited to collaborate with individuals and teams who share my enthusiasm for creating exceptional experiences.",
 
-    "Your visit to my portfoli is truly appreciated!",
+    "Your visit to my portfolio is truly appreciated!",
   ],
 };
 
