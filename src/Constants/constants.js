@@ -187,7 +187,7 @@ const skills = [
     title: "GitHub",
     icon: githubIcon,
     description:
-      "I am skilled in using GitHub for seamless project collaboration, code sharing, and issue tracking. Through GitHub, I efficiently create and manage repositories and effectively present my work to potential employers.",
+      "I am skilled in using GitHu for seamless project collaboration, code sharing, and issue tracking. Through GitHub, I efficiently create and manage repositories and effectively present my work to potential employers.",
   },
   {
     id: "psql",
