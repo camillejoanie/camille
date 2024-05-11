@@ -13,7 +13,7 @@ const SectionTitle = (props) => {
   const { title, subtitle } = props;
 
   return (
-    <LazyMotion features={domAnimation} strict> 
+    <LazyMotion features={domAnimation} strict>
       <m.div
         initial={{ x: -350 }}
         whileInView={{ x: 0 }}
@@ -24,7 +24,7 @@ const SectionTitle = (props) => {
           className="opacity-50"
           style={{
             textTransform: "uppercase",
-            fontFamily: "Poppins, sans-serif",
+            fontFamily: "Poppins, sans-serifffffff",
             fontWeight: "600",
           }}
         >
@@ -32,13 +32,17 @@ const SectionTitle = (props) => {
         </span>
         <h2
           className="tracking-wider text-7xl sm:text-8xl md:text-9xl"
-          style={{ fontFamily: "Morganite Black"}}
+          style={{ fontFamily: "Morganite Black" }}
         >
           {title.split("").map((char, index) => {
-            if(char === " ") {
+            if (char === " ") {
               return " ";
             }
-            return <span key={index} className="bounce">{char}</span>
+            return (
+              <span key={index} className="bounce">
+                {char}
+              </span>
+            );
           })}
         </h2>
       </m.div>

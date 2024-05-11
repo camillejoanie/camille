@@ -221,7 +221,7 @@ const skills = [
     id: "redux",
     title: "Redux",
     icon: reduxIcon,
-    description:lol
+    description:
       "With Redux, I efficiently manage state in React applications, ensuring a single source of truth for data and facilitating seamless communication between components. I utilize Redux middleware for handling asynchronous actions, optimizing performance, and enhancing code maintainability.",
   },
 ];
