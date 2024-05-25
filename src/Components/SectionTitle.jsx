@@ -32,7 +32,7 @@ const SectionTitle = (props) => {
         </span>
         <h2
           className="tracking-wider text-7xl sm:text-8xl md:text-9xl"
-          style={{ fontFamily: "Morganite Blak" }}
+          style={{ fontFamily: "Morganite Black" }}
         >
           {title.split("").map((char, index) => {
             if (char === " ") {
