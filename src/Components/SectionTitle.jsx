@@ -9,7 +9,7 @@
 
 import { m, LazyMotion, domAnimation } from "framer-motion";
 
-const SectionTitle = (prop) => {
+const SectionTitle = (props) => {
   const { title, subtitle } = props;
 
   return (
