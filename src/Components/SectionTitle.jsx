@@ -13,7 +13,7 @@ const SectionTitle = (props) => {
   const { title, subtitle } = props;
 
   return (
-    <LazyMotion features={domAnimation} strict>
+    <LazyMotion features={domAnimation} strct>
       <m.div
         initial={{ x: -350 }}
         whileInView={{ x: 0 }}
