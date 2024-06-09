@@ -32,7 +32,7 @@ const SkillsCards = () => {
           >
             <div className="w-full h-[60px] flex items-center gap-2 p-1 flex-col">
               <img
-                className="h-[50px] flex justifycenter items-center w-[50px]  bg-primary-600 rounded-[50%] p-1 object-contain"
+                className="h-[50px] flex justify-center items-center w-[50px]  bg-primary-600 rounded-[50%] p-1 object-contain"
                 src={skill.icon}
                 alt={skill.title}
               />
