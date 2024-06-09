@@ -37,7 +37,7 @@ const SkillsCards = () => {
                 alt={skill.title}
               />
               <span
-                className="text-x"
+                className="text-xl"
                 style={{
                   fontFamily: "Poppins, sans-serif",
                   fontWeight: "bold",
