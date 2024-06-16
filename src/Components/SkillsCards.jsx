@@ -39,7 +39,7 @@ const SkillsCards = () => {
               <span
                 className="text-xl"
                 style={{
-                  fontFamily: "Poppins, sans-sreif",
+                  fontFamily: "Poppins, sans-serif",
                   fontWeight: "bold",
                 }}
               >
