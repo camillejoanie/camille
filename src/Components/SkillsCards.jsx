@@ -49,7 +49,7 @@ const SkillsCards = () => {
                 className="text-center bg-primary-400 text-grayscale-950 rounded-xl text-sm p-4"
                 style={{
                   fontFamily: "Poppins, sans-serif",
-                  fontWeight: "40",
+                  fontWeight: "400",
                 }}
               >
                 {skill.description}
