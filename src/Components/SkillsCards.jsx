@@ -48,7 +48,7 @@ const SkillsCards = () => {
               <span
                 className="text-center bg-primary-400 text-grayscale-950 rounded-xl text-sm p-4"
                 style={{
-                  fontFamily: "Poppins, sans-serif",
+                  fontFamily: "Poppins, sans-erif",
                   fontWeight: "400",
                 }}
               >
