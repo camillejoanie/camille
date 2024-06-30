@@ -30,7 +30,7 @@ const SocialLinks = () => {
           className="text-3xl text-grayscale-50 hover:text-primary-400 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faLinkedin}
         />
-      </a
+      </a>
     </div>
   );
 };
