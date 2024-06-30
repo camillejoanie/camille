@@ -27,7 +27,7 @@ const SocialLinks = () => {
       </a>
       <a href="https://www.linkedin.com/in/camillejoanie/" target="_blank">
         <FontAwesomeIcon
-          className="text-3xl text-grayscale-50 hover:text-primary-400 hover:scale-[1.1] transition-all duraton-75"
+          className="text-3xl text-grayscale-50 hover:text-primary-400 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faLinkedin}
         />
       </a>
