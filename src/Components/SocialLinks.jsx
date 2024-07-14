@@ -25,7 +25,7 @@ const SocialLinks = () => {
           icon={icons.faEnvelope}
         />
       </a>
-      <a href="https://www.linkedin.com/in/camillejoanie/" target="_blanl">
+      <a href="https://www.linkedin.com/in/camillejoanie/" target="_blanlk">
         <FontAwesomeIcon
           className="text-3xl text-grayscale-50 hover:text-primary-400 hover:scale-[1.1] transition-all duration-75"
           icon={icons.faLinkedin}
