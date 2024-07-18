@@ -31,7 +31,7 @@ const SocialLinks = () => {
           icon={icons.faLinkedin}
         />
       </a>
-    </div>
+    </div
   );
 };
 
