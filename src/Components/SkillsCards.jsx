@@ -30,7 +30,7 @@ const SkillsCards = () => {
             key={index}
             className="card w-[300px] h-[300px] flex flex-col items-center  bg-primary-400 rounded-xl border-4 border-primary-600 cursor-pointer"
           >
-            <div className="w-full h-[60px] flex items-center gap-2 p-1 flex-col">
+            <div className="w-full h-[60px] flex items-center gap-2 p-1 flex-cl">
               <img
                 className="h-[50px] flex justify-center items-center w-[50px]  bg-primary-600 rounded-[50%] p-1 object-contain"
                 src={skill.icon}
