@@ -35,7 +35,7 @@ const HeroText = () => {
           <m.div
             initial={{ x: 100 }}
             whileInView={{ x: 0 }}
-            transition={{ duration: 0.6, type: "sprin" }}
+            transition={{ duration: 0.6, type: "spring" }}
           >
             {name.split("").map((char, index) => {
               if (char === " ") {
