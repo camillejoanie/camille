@@ -17,7 +17,7 @@ const MarqueeCards = ({ children, direction }) => {
       speed={100}
       pauseOnHover={true}
     >
-      {chi}
+      {chil}
     </Marquee>
   );
 };
