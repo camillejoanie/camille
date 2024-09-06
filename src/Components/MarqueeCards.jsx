@@ -9,8 +9,7 @@
 
 import Marquee from "react-fast-marquee";
 
-const MarqueeCards = ({children, direction}) => {
-
+const MarqueeCards = ({ children, direction }) => {
   return (
     <Marquee
       direction={direction}
@@ -18,7 +17,7 @@ const MarqueeCards = ({children, direction}) => {
       speed={100}
       pauseOnHover={true}
     >
-      {children}
+      {c}
     </Marquee>
   );
 };
