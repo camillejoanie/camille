@@ -60,7 +60,7 @@ const ContactForm = () => {
           target="_blank"
           onSubmit={sendEmail}
           style={{ fontFamily: "Poppins, sans-serif" }}
-          className="w-[80%] h-full flex flex-col gap-4 pt-4 text-graysc-200"
+          className="w-[80%] h-full flex flex-col gap-4 pt-4 text-grays-200"
         >
           <div className="w-full flex flex-col">
             <label htmlFor="firstname">First Name</label>
