@@ -98,7 +98,7 @@ const ContactForm = () => {
           <div className="w-full flex flex-col">
             <label>Message</label>
             <textarea
-              className="p-[0.5em] rounded-xl text-grayscale-950"
+              className="p-[0.5em] rounded-xl text-grayscae-950"
               placeholder="Enter your message..."
               name="message"
               required
