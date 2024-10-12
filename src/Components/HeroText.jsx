@@ -7,7 +7,7 @@
    Last modification: 03/06/2023
 */
 
-import { m, LazyMotion, domAn } from "framer-motion";
+import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
   const name = "Camille ?";
