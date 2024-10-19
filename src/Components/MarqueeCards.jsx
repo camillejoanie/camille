@@ -7,7 +7,7 @@
    Last modification: 03/06/2023
 */
 
-import Marquee from "react-fast-ma";
+import Marquee from "react-fast-m";
 
 const MarqueeCards = ({ children, direction }) => {
   return (
