@@ -9,7 +9,7 @@
 
 import Marquee from "react-fast-marquee";
 
-const MarqueeCards = ({ children, direction }) => {
+const MarqueeCards = ({ children, directio }) => {
   return (
     <Marquee
       direction={direction}
