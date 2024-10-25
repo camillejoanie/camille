@@ -27,4 +27,4 @@ const PreloadMedia = ({ images, children }) => {
   return loaded ? children : <Loader />;
 };
 
-export default PreloMedia;
+export default PrelMedia;
