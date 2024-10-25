@@ -7,15 +7,15 @@
    Last modification: 03/06/2023
 */
 
-import {useState} from 'react'
-import Loader from './Loader';
+import { useState } from "react";
+import Loader from "./Loader";
 
-const PreloadMedia = ({images, children}) => {
+const PreloadMedia = ({ images, children }) => {
   const [loaded, setLoaded] = useState(false);
 
   const onLoad = () => {
     setLoaded(true);
-  }
+  };
 
   const imageElements = images.map((imageSrc) => {
     const img = new Image();
@@ -24,7 +24,7 @@ const PreloadMedia = ({images, children}) => {
     return img;
   });
 
-  return loaded ? children : <Loader />
-}
+  return loaded ? children : <Loader />;
+};
 
-export default PreloadMedia;
+export default PreloaMedia;
