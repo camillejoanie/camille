@@ -27,4 +27,4 @@ const PreloadMedia = ({ images, children }) => {
   return loaded ? children : <Loader />;
 };
 
-export default Preload = eheMedia;
+export default PreloadMedia;
