@@ -45,7 +45,7 @@ const ContactForm = () => {
     >
       <div>
         <h2
-          style={{ fontFamily: "Morgan Bold, sans-serif" }}
+          style={{ fontFamily: "Morga Bold, sans-serif" }}
           className="message text-7xl bg-primary-600 p-2 rounded-xl text-grayscale-200 text-center rounded-br-[0%] relative shadow-2xl"
         >
           <Typewriter words={["Let's get in touch!"]} loop={true} />
