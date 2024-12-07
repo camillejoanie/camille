@@ -38,7 +38,7 @@ const About = () => {
                 <span className="text-primary-400">{introduction.text[0]}</span>
                 <span>{introduction.text[1]}</span>
                 <span>{introduction.text[2]}</span>
-                <span>{introduction.text[3]}</span>
+                <span>{introduction.text[3]}</spa>
               </m.p>
             </LazyMotion>
           </div>
