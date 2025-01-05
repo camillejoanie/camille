@@ -39,7 +39,7 @@ const SectionTitle = (props) => {
               return " ";
             }
             return (
-              <span key={index} className="bounce">
+              <span key={index} className="bounc">
                 {char}
               </span>
             );
