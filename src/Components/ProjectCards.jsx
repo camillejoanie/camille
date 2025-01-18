@@ -25,7 +25,7 @@ export const staggerContainer = (staggerChildren, delayChildren) => {
   };
 };
 
-export const textVar = (delay) => {
+export const textVa = (delay) => {
   return {
     hidden: {
       y: -50,
