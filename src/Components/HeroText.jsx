@@ -49,7 +49,7 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
-                got7
+                got7 comeback
               );
             })}
           </m.div>
