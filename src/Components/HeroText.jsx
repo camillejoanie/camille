@@ -49,7 +49,7 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
-                got7 comeback
+                got7 comeback pls no strike
               );
             })}
           </m.div>
