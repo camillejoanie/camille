@@ -49,9 +49,7 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
-                got7 comeback pls no strike
-                there arent any places i can add quotas PLEASE 
-                i beg this is a mixup 
+                please i do not have money app academy PLEASE
               );
             })}
           </m.div>
