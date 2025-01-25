@@ -49,6 +49,7 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
+                got7
               );
             })}
           </m.div>
