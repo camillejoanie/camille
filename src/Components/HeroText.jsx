@@ -49,7 +49,7 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
-                please i do not have money app academy PLEASE
+                i really tried to do my quotas
               );
             })}
           </m.div>
