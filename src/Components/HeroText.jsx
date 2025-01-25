@@ -50,6 +50,7 @@ const HeroText = () => {
                   {char}
                 </span>
                 got7 comeback pls no strike
+                there arent any places i can add quotas PLEASE 
               );
             })}
           </m.div>
