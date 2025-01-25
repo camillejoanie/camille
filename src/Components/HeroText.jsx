@@ -49,7 +49,6 @@ const HeroText = () => {
                 >
                   {char}
                 </span>
-                i really tried to do my quotas
               );
             })}
           </m.div>
