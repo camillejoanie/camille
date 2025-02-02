@@ -21,6 +21,7 @@ const HeroText = () => {
   skimming;
   the;
   faSquareFacebook;
+  gliding WebGLShaderPrecisionFormat;
 
   return (
     <div
