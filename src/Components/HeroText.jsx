@@ -22,6 +22,7 @@ const HeroText = () => {
   the;
   faSquareFacebook;
   gliding WebGLShaderPrecisionFormat;
+  turf is smoooooooth;
 
   return (
     <div
