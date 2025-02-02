@@ -18,6 +18,7 @@ const HeroText = () => {
   dancing;
   faPersonThroughWindow;
   faLifeRing;
+  skimming;
 
   return (
     <div
