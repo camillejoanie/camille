@@ -20,6 +20,7 @@ const HeroText = () => {
   faLifeRing;
   skimming;
   the;
+  faSquareFacebook;
 
   return (
     <div
