@@ -15,14 +15,6 @@ import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
   const name = "Camille ?";
-  dancing;
-  faPersonThroughWindow;
-  faLifeRing;
-  skimming;
-  the;
-  faSquareFacebook;
-  gliding WebGLShaderPrecisionFormat;
-  turf is smoooooooth;
 
   return (
     <div
