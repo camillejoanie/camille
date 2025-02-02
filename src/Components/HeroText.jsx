@@ -7,13 +7,17 @@
    Last modification: 03/06/2023
 */
 
-import { faPersonThroughWindow } from "@fortawesome/free-solid-svg-icons";
+import {
+  faLifeRing,
+  faPersonThroughWindow,
+} from "@fortawesome/free-solid-svg-icons";
 import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
   const name = "Camille ?";
   dancing;
   faPersonThroughWindow;
+  faLifeRing;
 
   return (
     <div
