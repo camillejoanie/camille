@@ -19,6 +19,7 @@ const HeroText = () => {
   faPersonThroughWindow;
   faLifeRing;
   skimming;
+  the;
 
   return (
     <div
