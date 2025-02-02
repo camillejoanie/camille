@@ -11,6 +11,7 @@ import { m, LazyMotion, domAnimation } from "framer-motion";
 
 const HeroText = () => {
   const name = "Camille ?";
+  dancing;
 
   return (
     <div
